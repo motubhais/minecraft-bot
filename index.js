@@ -4,7 +4,7 @@ const mineflayer = require("mineflayer");
 const password = process.env.BOT_PASSWORD || "krishnanna";
 
 const bot = mineflayer.createBot({
-  host: "brothersurvival-r84I.aternos.me",
+  host: "brothersmpmc.aternos.me",
   port: 20388,
   username: "botss"
 });
